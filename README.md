@@ -67,13 +67,14 @@ This formula is consistent with the assignment instructions and industry practic
 
 ### Main Page
 
-<img width="1080" height="2340" alt="Main Page" src="https://github.com/user-attachments/assets/17ff2706-0c9c-4fdd-a86d-637240f9f891" />
 
+<img width="1080" height="2340" alt="homepage" src="https://github.com/user-attachments/assets/c88a28ea-795d-4167-b9cb-508a1a70dd9b" />
 
----
-<img width="1080" height="2340" alt="About Page" src="https://github.com/user-attachments/assets/9860fa7b-566a-4d5f-8dd4-a78637edb011" />
 
 ### About Page
+
+
+<img width="1080" height="2340" alt="aboutPage" src="https://github.com/user-attachments/assets/e21bf79e-6f01-4700-b860-6d060decce56" />
 
 
 ---
